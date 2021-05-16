@@ -76,6 +76,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jo-Myounghee&show_icons=true&theme=flag-india&count_private=true"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kim-Ha-neul&show_icons=true&theme=flag-india&count_private=true"/></a>
 </p>
 
